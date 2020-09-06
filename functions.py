@@ -20,3 +20,7 @@ print(result)
 
 result = subtract(-12, -4)
 print(result)
+
+def divide(num1, num2)
+    result = num1 / num2
+    return result
